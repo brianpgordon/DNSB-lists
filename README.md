@@ -19,3 +19,4 @@ Using the "Add/Remove" window, select "Add .INI file Nameservers" and select the
 ## References used
 - https://dnsprivacy.org/public_resolvers/
 - https://github.com/curl/curl/wiki/DNS-over-HTTPS#publicly-available-servers
+- https://techblog.nexxwave.eu/public-dns-malware-filters-to-be-tested-in-2025/
